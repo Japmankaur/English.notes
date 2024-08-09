@@ -6,3 +6,6 @@ Speech,telephonic,TV,videos,radio
 ORAL COMMUNICATION brings quick feedback.
 In face to face conversation used is unable to think deeeply about what he is deeply about what he is deleivering.
 So this can be counted as a fault.
+
+WRITTEN COMMUNICATION - In written communication signs and symbols are being used.
+EXAMPLE - Whatsapp etc.

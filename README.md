@@ -1,4 +1,4 @@
-# English.notes
+# ENGLISH.NOTES
 
 
 *SYLLABUS*

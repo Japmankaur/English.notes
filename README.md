@@ -16,6 +16,8 @@ It is a process of exchanging information idea,though emotions,feeling through s
 
 [VERBAL COMMUNICATION](https://github.com/Japmankaur/english.notes/blob/main/verbal%20communication.md)
 
+[NON VERBAL COMMUNICATION](https://github.com/Japmankaur/english.notes/blob/main/non%20verbal%20communication.md)
+
 
 
 

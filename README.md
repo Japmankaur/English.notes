@@ -10,6 +10,9 @@
 ----
 
 # COMMUNICATION
+It is a process of exchanging information idea,though emotions,feeling through speech signal,writing and behaviour.
+
+#TYPES OF COMMUNICATION
 
 
 

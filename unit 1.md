@@ -1,7 +1,5 @@
 # English.notes
-# English-notes
 
-*SYLLABUS*
 
 ***Unit 1***
 

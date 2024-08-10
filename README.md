@@ -3,9 +3,9 @@
 
 *SYLLABUS*
 
-[unit 1 LISTENING SKILLS](https://github.com/Japmankaur/english.notes/blob/main/unit%201.md)
+[Unit 1 LISTENING SKILLS](https://github.com/Japmankaur/english.notes/blob/main/unit%201.md)
 
-[unit 2 COMMUNICATION SKILLS](https://github.com/Japmankaur/english.notes/blob/main/unit%202.md)
+[Unit 2 COMMUNICATION SKILLS](https://github.com/Japmankaur/english.notes/blob/main/unit%202.md)
 
 ----
 

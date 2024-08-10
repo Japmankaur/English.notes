@@ -1,3 +1,4 @@
+
 # ENGLISH.NOTES
 
 
@@ -12,11 +13,17 @@
 # COMMUNICATION
 It is a process of exchanging information idea,though emotions,feeling through speech signal,writing and behaviour.
 
+---
+
+
 # TYPES OF COMMUNICATION
 
 [VERBAL COMMUNICATION](https://github.com/Japmankaur/english.notes/blob/main/verbal%20communication.md)
 
 [NON VERBAL COMMUNICATION](https://github.com/Japmankaur/english.notes/blob/main/non%20verbal%20communication.md)
+
+---
+
 
 ***LEVELS OF COMMUNICTION***
 
@@ -24,6 +31,17 @@ It is a process of exchanging information idea,though emotions,feeling through s
 - INTRAPERSONAL COMMUNICATION - It is a communication that occurs in our own mind. It is on the basis of feelings,biases,prejudices,beliefs.
 
 - INTERPERSONAL COMMUNICATIOM - It is between two people but can involve more in informal communication.
+
+- ONE-TWO GROUP COMMUNICATION - It involves a speaker who seeks to inform or motivate audience.
+
+- MASS COMMUNICATION - It is an electronic transition to large number of people.
+  ### example - televisions,channels,books etc.
+
+  ---
+
+  
+
+  
 
 
 

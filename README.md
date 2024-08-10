@@ -18,6 +18,11 @@ It is a process of exchanging information idea,though emotions,feeling through s
 
 [NON VERBAL COMMUNICATION](https://github.com/Japmankaur/english.notes/blob/main/non%20verbal%20communication.md)
 
+***LEVELS OF COMMUNICTION***
+
+
+>- [INTRAPERSONAL COMMUNICATION]
+
 
 
 

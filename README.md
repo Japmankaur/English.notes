@@ -21,7 +21,9 @@ It is a process of exchanging information idea,though emotions,feeling through s
 ***LEVELS OF COMMUNICTION***
 
 
->- [INTRAPERSONAL COMMUNICATION]
+>- INTRAPERSONAL COMMUNICATION - It is a communication that occurs in our own mind. It is on the basis of feelings,biases,prejudices,beliefs.
+>
+>- INTERPERSONAL COMMUNICATIOM - It is between two people but can involve more in informal communication.
 
 
 

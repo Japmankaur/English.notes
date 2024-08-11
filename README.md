@@ -39,6 +39,32 @@ It is a process of exchanging information idea,though emotions,feeling through s
 
   ---
 
+  *** 7'C PRINCIPLES OF COMMUNICATION ***
+
+  >- Candidness
+  >- Clarity
+  >- Completeness
+  >- Conciseness
+  >-  Correctness
+  >-  Courtiousness
+  
+  ---
+  
+  CANDIDNESS - It is about experessing your thoughts openly and honestly without hide anything.
+
+  CLARITY - Be clear what idea you want to convey and then convey it in clear words (in simple words).
+
+COMPLETENESS - Convey the complete message. Leave nothing to the reciever's guess.
+
+CONCISENESS - Convey the message with few possible words.
+
+CONCRETENESS - Facts and figures, nothing weigh
+
+CORRECTNESS - Correct language, information, grammar spelling.
+
+COURTIOUSNESS - Be polite words are to be used.
+
+
   
 
   

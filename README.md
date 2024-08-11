@@ -50,9 +50,9 @@ It is a process of exchanging information idea,though emotions,feeling through s
   
   ---
   
-  CANDIDNESS - It is about experessing your thoughts openly and honestly without hide anything.
+ CANDIDNESS - It is about experessing your thoughts openly and honestly without hide anything.
 
-  CLARITY - Be clear what idea you want to convey and then convey it in clear words (in simple words).
+ CLARITY - Be clear what idea you want to convey and then convey it in clear words (in simple words).
 
 COMPLETENESS - Convey the complete message. Leave nothing to the reciever's guess.
 

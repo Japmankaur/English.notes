@@ -39,8 +39,27 @@ It is a process of exchanging information idea,though emotions,feeling through s
 
   ---
 
-  
+ **FORMAL CHANNELS OF COMMUNICATION**
+ 
+ There are four formal channels or Organizational communications:
+ 
+ **1. Downword communication channel**
+ 
+ **2. Upward communication channel**
+ 
+**3. Horizontal communication channel**
 
+**4. Diagonal communication channel**
+
+  - Downword - Downword communication channel occurs when information and messages flow down through an organisations formal chain of command and hierarchical structures.In other words, messages and order start at the upper level of the organisational hierarchy and moves down towards the bottom level.
+  
+  - Upward - upward communication is the process in which employees provide feedback to their managers and company leadership. hearing from employees can help managers avoid losing key talent and achieve better results by restructuring processes. it can also help companies cultivate a more inclusive inclusive workplace.
+  
+  - Horizontal - horizontal communication is a type of communication in the workplace that takes place between two employees who work at the same level. this can a refer to Employees with in the same department that have the same job title, or it can a refer to employees in different departments who are at the same hierarchical level.
+
+  - Diagonal -diagonal communication is a sort of hybrid between vertical and horizontal communication. it's a direct dialogue between employees of different ranks who are not in the same chain of command. for example a software developer MIT coolaborate with a marketing manager to better understand products needs and Positioning.
+
+  ---
   
 
 
